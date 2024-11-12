@@ -1,9 +1,8 @@
-**Prerequisites**
-
+Prerequisites:
 1. neo4j instance
 2. openai
 
-**Set up your environment as such**
+Set up your environment as such:
 OPENAI_API_KEY=
 NEO4J_USERNAME=
 NEO4J_PASSWORD=
