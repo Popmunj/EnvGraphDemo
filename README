@@ -1,3 +1,5 @@
+Implemented: demo graphrag agent only
+
 Prerequisites:
 1. neo4j instance
 2. openai
